@@ -8,10 +8,11 @@ python main.py
 ```
 
 # App Project
-Para correr el proyecto
+Para correr el proyecto por primera vez
 ```sh
 git clone git@github.com:ebermudezGit/curso-python-pip.git
 cd app
+python3 -m venv env
 source env/bin/activate
 pip3 install -r requeriments.txt
 python3 main.py
