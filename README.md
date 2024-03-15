@@ -15,8 +15,13 @@ cd app
 python3 -m venv env
 source env/bin/activate
 pip3 install -r requeriments.txt
+```
+En la carpeta app ejecutar el main.py
+```sh
 python3 main.py
 ```
+las imagenes se crearan en ./app/imgs/
+
 
 ## Comisimientos usados
 ### Entornos Virtuales Python:
