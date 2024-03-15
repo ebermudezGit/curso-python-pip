@@ -22,7 +22,6 @@ python3 main.py
 ```
 las imagenes se crearan en ./app/imgs/
 
-
 ## Comisimientos usados
 ### Entornos Virtuales Python:
 
