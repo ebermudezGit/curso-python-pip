@@ -2,7 +2,7 @@
 
 Para correr el juego tienes que correr las instrucciones en la terminal
 
-´´´sh
+```sh
 cd game
 python main.py
-´´´
+```
